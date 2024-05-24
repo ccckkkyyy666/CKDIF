@@ -1,4 +1,5 @@
 ## Getting Started
+This is the code of paper: `When Coordinated Knowledge Distillation Meets Mixture of Expert Inference: Insights from Portfolio Optimization`
 
 Follow these steps to get started with the CKDIF:
 
